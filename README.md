@@ -10,7 +10,7 @@ I'm a passionate **Software Developer** 🧑‍💻, **Tech Enthusiast** 🚀, a
 - **Databases**: MariaDB, PostgreSQL, MySQL
 
 ## 📈 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Vuexec&show_icons=true&theme=gotham/merko)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Vuexec&show_icons=true&theme=gotham)
 
 ## My Websites
 - [Vuexec Network](https://vuexec.com/)
