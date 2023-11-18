@@ -1,16 +1,8 @@
-# 👋 Hi there, I'm Vuexec!
-
-## 🚀 About Me
-I'm a passionate **Software Developer** 🧑‍💻, **Tech Enthusiast** 🚀, and **Lifelong Learner** 📚. I love exploring new technologies and leveraging them to solve real-life problems ✨.
-
-## 🛠 Skills
+## Skills
 - **Languages**: HTML, JavaScript, Python, Golang
 - **Frameworks & Libraries**: React, Next.js, Node.js, Vue.js, Vuetify.js, Express.js
 - **Tools & Technologies**: NGINX, Caddy, Apache WS
 - **Databases**: MariaDB, PostgreSQL, MySQL
-
-## 📈 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Vuexec&show_icons=true&theme=merko)
 
 ## My Websites
 - [Vuexec Network](https://vuexec.com/)
