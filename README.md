@@ -4,7 +4,7 @@
 - **Tools & Technologies**: NGINX, Caddy, Apache WS
 - **Databases**: MariaDB, PostgreSQL, MySQL
 
-## My Websites
+## Websites
 - [Vuexec Network](https://vuexec.com/)
 - [TopG Developer](https://topg.dev/)
 - [MyHostName](https://my-host.name/)
