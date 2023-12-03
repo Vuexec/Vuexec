@@ -9,7 +9,6 @@
 - [TopG Developer](https://topg.dev/)
 - [MyHostName](https://my-host.name/)
 - [InternetLimited](https://internet.limited/)
-- [FBI.AX](https://fbi.ax/)
 
 <!---
 Vuexec/Vuexec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
