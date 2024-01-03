@@ -8,7 +8,6 @@
 - [Vuexec Network](https://vuexec.com/)
 - [TopG Developer](https://topg.dev/)
 - [MyHostName](https://my-host.name/)
-- [InternetLimited](https://internet.limited/)
 
 <!---
 Vuexec/Vuexec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
