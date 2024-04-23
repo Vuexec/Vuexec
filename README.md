@@ -1,6 +1,6 @@
 ## Skills
-- **Languages**: HTML, JavaScript, Python, Golang
-- **Frameworks & Libraries**: Next.js, Node.js, Vue.js, Vuetify.js, Express.js, React
+- **Languages**: HTML, JavaScript, Python
+- **Frameworks & Libraries**: Node.js, Vue.js, Vuetify.js, Express.js, Next.js, React
 - **Tools & Technologies**: NGINX, Caddy, Apache WS
 - **Databases**: MariaDB, PostgreSQL, MySQL
 
@@ -8,7 +8,7 @@
 - [Vuexec Network](https://vuexec.com/)
 - [MyHostName](https://my-host.name/)
 - [SystemNinja](https://system.ninja/)
-- [TopG Developer](https://topg.dev/)
+- [NLOAD.NET](https://nload.net/)
 
 <!---
 Vuexec/Vuexec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
